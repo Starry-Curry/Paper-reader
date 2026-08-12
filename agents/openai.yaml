@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文导师阅读包"
+  short_description: "为初学者生成公式精讲、双栏英文原文、中文译文与摘要笔记"
+  default_prompt: "使用 $paper-to-course 精读这篇论文，重点逐步讲清公式，并生成完整的四项阅读产物。"

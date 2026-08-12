@@ -1,0 +1,10 @@
+{
+  "name": "paper-to-course",
+  "description": "Turn one academic paper into a beginner-friendly mentor tutorial, a guided explanation-English source reader, a faithful Chinese translation, and concise Markdown notes.",
+  "version": "1.3.0",
+  "author": {
+    "name": "KaguraTart"
+  },
+  "homepage": "https://github.com/KaguraTart/paper-to-course",
+  "repository": "https://github.com/KaguraTart/paper-to-course"
+}
